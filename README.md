@@ -1,31 +1,77 @@
-<h1 align="center">Hi 👋, I'm Tomás!</h1>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif)](https://i.pinimg.com/736x/b0/c7/34/b0c734e808dcfa1b3382f341474200a0.jpg)">
-<h3 align="center">I'm a Computer Science student from Portugal. My insatiable curiosity fuels my passion for learning, driving me to seek knowledge every day. I'm always open to exciting collaborations, new experiences, and challenging endeavors. What sets me apart is my love for independence, I relish the chance to take the lead and proactively shape my own path.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Tomás!</h1>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlouro-c&label=Profile%20views&color=0e75b6&style=flat" alt="tlouro-c" /> </p>
+<div style="width: 200px; height: 200px; overflow: hidden;">
+  <img
+    align="right"
+    alt="Coding"
+    width="350"
+    src="https://i.pinimg.com/736x/b0/c7/34/b0c734e808dcfa1b3382f341474200a0.jpg"
+  />
+</div>
+<div align="center">
+  <h3>I'm a Computer Science student from Portugal with an insatiable curiosity that drives my passion for learning. I'm open to exciting collaborations and new experiences, and I love taking the lead to shape my own path.</h3>
+</div>
+<div align="left">
+  <p> <img src="https://komarev.com/ghpvc/?username=tlouro-c&label=Profile%20views&color=0e75b6&style=flat" alt="tlouro-c" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlouro-c" alt="tlouro-c" /></a> </p>
+<div align="left">
+  <h3>🌱 I’m currently studying Computer Science at <a href="https://www.42lisboa.com">42 School (Lisbon)</a></h3>
+</div>
 
-- 🌱 I’m currently studying Computer Science at [42 School (Lisbon)](https://www.42lisboa.com)
+<div align="left">
+  <p>💬 Ask me about <strong>My journey at 42 School.</strong></p>
+</div>
 
-- 💬 Ask me about **My journey at 42 School.**
+<div align="left">
+  <p>📫 How to reach me <strong>tomascorreia.lc@gmail.com</strong></p>
+</div>
 
-- 📫 How to reach me **tomascorreia.lc@gmail.com**
+<div align="left">
+  <p>📄 Know about my experiences <strong>Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine.</strong></p>
+</div>
 
-- 📄 Know about my experiences **Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine.**
+<div align="left">
+  <p>⚡ Fun fact <strong>I have a small background in Graphic Design.</strong></p>
+</div>
 
-- ⚡ Fun fact **I have a small background on Graphic Design.**
+<div align="left">
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://instagram.com/tomascorreia21" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomascorreia21" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tomascorreia21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomascorreia21" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <h3>Languages and Tools:</h3>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<div align="left">
+  <p>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+  </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact" alt="tlouro-c" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact" alt="tlouro-c" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlouro-c&show_icons=true&locale=en" alt="tlouro-c" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlouro-c&show_icons=true&locale=en" alt="tlouro-c" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlouro-c&" alt="tlouro-c" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlouro-c&" alt="tlouro-c" />
+</div>
