@@ -10,9 +10,11 @@
     src="https://i.pinimg.com/736x/b0/c7/34/b0c734e808dcfa1b3382f341474200a0.jpg"
   />
 </div>
+
 <div align="center">
   <h3>I'm a Computer Science student from Portugal with an insatiable curiosity that drives my passion for learning. I'm open to exciting collaborations and new experiences, and I love taking the lead to shape my own path.</h3>
 </div>
+
 <div align="left">
   <p> <img src="https://komarev.com/ghpvc/?username=tlouro-c&label=Profile%20views&color=0e75b6&style=flat" alt="tlouro-c" /> </p>
 </div>
