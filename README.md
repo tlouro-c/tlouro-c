@@ -6,7 +6,7 @@
   <img
     align="right"
     alt="Coding"
-    width="410"
+    width="405"
     src="https://i.pinimg.com/736x/b0/c7/34/b0c734e808dcfa1b3382f341474200a0.jpg"
   />
 </div>
