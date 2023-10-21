@@ -6,7 +6,7 @@
   <img
     align="right"
     alt="Coding"
-    width="350"
+    width="410"
     src="https://i.pinimg.com/736x/b0/c7/34/b0c734e808dcfa1b3382f341474200a0.jpg"
   />
 </div>
@@ -18,23 +18,25 @@
 </div>
 
 <div align="left">
-  <h3>🌱 I’m currently studying Computer Science at <a href="https://www.42lisboa.com">42 School (Lisbon)</a></h3>
+  <h3>🌱 I’m currently studying Computer Science at <a href="https://www.42lisboa.com">42 School (Lisbon)</a>
+  </h3>
+</div>
+
+
+<div align="left">
+  <p>💬 Ask me about <br><strong>My journey at 42 School.</strong></p>
 </div>
 
 <div align="left">
-  <p>💬 Ask me about <strong>My journey at 42 School.</strong></p>
+  <p>📫 How to reach me <br><strong>tomascorreia.lc@gmail.com</strong></p>
 </div>
 
 <div align="left">
-  <p>📫 How to reach me <strong>tomascorreia.lc@gmail.com</strong></p>
+  <p>💡 Know about my experiences<br> <strong>Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine.</strong> </p>
 </div>
 
 <div align="left">
-  <p>📄 Know about my experiences <strong>Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine.</strong></p>
-</div>
-
-<div align="left">
-  <p>⚡ Fun fact <strong>I have a small background in Graphic Design.</strong></p>
+  <p>⚡ Fun fact <br> <strong>I have a small background in Graphic Design.</strong></p>
 </div>
 
 <div align="left">
