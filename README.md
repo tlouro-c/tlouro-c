@@ -44,8 +44,8 @@
 <div align="left">
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://instagram.com/tomascorreia21" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomascorreia21" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/tomás-correia-34881a299/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/gist/Cytancy/d1e4a0f0edc874092613ddaef897b2a6/raw/a9b4317a94a7fd6706d20a5a018d028a333b83a6/linkedin.svg" alt="Tomás Correia" height="40" width="40" />
     </a>
   </p>
 </div>
