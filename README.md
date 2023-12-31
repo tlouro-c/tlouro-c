@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub Profile 💻</h1>
-<h3>👋 I'm Tomás, a Computer Science Student from Portugal 🇵🇹, passionate about learning and technology.</h3>
+<h3>👋 I'm Tomás, a Computer Science Student from Portugal, passionate about learning and technology.</h3>
 
 <!-- Image Section -->
 <img src="https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg" alt="Your Profile Image" height="auto" width="100%">
