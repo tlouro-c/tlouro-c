@@ -40,7 +40,7 @@
 <h2>How to reach me 📥</h2>
 <ul>
     <li><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" align="center" height="20" width="auto" > LinkedIn: <a href="https://www.linkedin.com/in/tomás-correia-34881a299/">Tomás Correia</a></li>
-    <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" align="center" height="20" width="auto"/> Email: <a href="tomascorreia.lc@gmail.com">tomascorreia.lc@gmail.com</a></li>
+    <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" align="center" height="20" width="auto"/> Email: <a href="mailto:tomascorreia.lc@gmail.com?subject=">tomascorreia.lc@gmail.com</a></li>
 </ul>
 
 <!-- Connect Section -->
