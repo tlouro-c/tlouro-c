@@ -24,7 +24,7 @@
 </ul>
 
 <h2>Know about my experiences 👨🏽‍💻</h2>
-<p>Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine.</p>
+<p>Before commencing my 42 School journey, I completed 9 weeks of the Harvard University CS50 (Introduction to Computer Science) Course, which proved invaluable in preparing me for the 42 School Piscine. 🏊🏼‍♂️</p>
 
 <!-- Projects Section -->
 <h2>Projects 🗂️</h2>
