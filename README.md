@@ -47,10 +47,6 @@
 <h2>Let's connect! 🌐</h2>
 <p>I'm always open to new opportunities and collaborations. If you have an exciting project or job opportunity, feel free to reach out.</p>
 
-<!-- Support Section -->
-<h2>Support 🤍</h2>
-<p>If you find my work interesting or helpful, consider giving it a ⭐️ or sharing it with others.</p>
-
 <h2>My stats 〽️</h2>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tlouro-c&theme=transparent&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a> </div>
