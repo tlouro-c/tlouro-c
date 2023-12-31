@@ -42,10 +42,8 @@
     <li><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" align="center" height="20" width="auto" > LinkedIn: <a href="https://www.linkedin.com/in/tomás-correia-34881a299/">Tomás Correia</a></li>
     <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" align="center" height="20" width="auto"/> Email: <a href="mailto:tomascorreia.lc@gmail.com?subject=">tomascorreia.lc@gmail.com</a></li>
 </ul>
-
-<!-- Connect Section -->
-<h2>Let's connect! 🌐</h2>
-<p>I'm always open to new opportunities and collaborations. If you have an exciting project or job opportunity, feel free to reach out.</p>
+<h4>
+<p>I'm always open to new opportunities and collaborations. If you have an exciting project or job opportunity, feel free to reach out.</p></h4>
 
 <h2>My stats 〽️</h2>
 <div align="center">
