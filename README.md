@@ -1,21 +1,26 @@
-<h1>Welcome to my GitHub Profile 💻</h1>
-<h3>👋 I'm Tomás, a Computer Science Student from Portugal, passionate about learning and technology.</h3>
+<h1>👋🏼 Hello, I'm Tomás, a Computer Science Student from Portugal.</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!-- Image Section -->
-<img src="https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg" alt="Your Profile Image" height="auto" width="100%">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tomás-correia-34881a299/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!-- About Me Section -->
 <h2>About Me 💡</h2>
-<p>I'm currently focused on getting a strong background in Computer Science by finishing 42 Common Core and then specializing in Full Stack Development. I believe in continuous learning to stay ahead in the ever-evolving tech landscape.</p>
-<p>I thrive on challenges, seeing them not as obstacles but as opportunities to break my limits every day. I've embraced the philosophy that things worth achieving don't come easy or fast. The value lies in the journey, the struggle, and the commitment to pushing boundaries.</p>
+<li><p>I'm currently focused on getting a strong background in Computer Science by finishing 42 Common Core and then specializing in Full Stack Development. I believe in continuous learning to stay ahead in the ever-evolving tech landscape.</p> </li>
+<li><p>I thrive on challenges, seeing them not as obstacles but as opportunities to break my limits every day. I've embraced the philosophy that things worth achieving don't come easy or fast. The value lies in the journey, the struggle, and the commitment to pushing boundaries.</p> </li>
 
 <h2>Curiosity ❓</h2>
-<p>Beyond coding and continuous learning, I find joy in investing in my personal growth and exploring diverse realms of knowledge. Health optimization particularly intrigues me, and I actively engage in sports to stay physically active and energized. 🏃🏽‍♂️</p>
+<li><p>Beyond coding and continuous learning, I find joy in investing in my personal growth and exploring diverse realms of knowledge. Health optimization particularly intrigues me, and I actively engage in sports to stay physically active and energized. 🏃🏽‍♂️</p></li>
 
 <!-- Skills Section -->
 <h2>Skills 🔨</h2>
 <ul>
-    <li>Programming Languages: C </li>
+    <li>Programming Languages: <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" height="40" align="center"> </li>
 </ul>
 
 <h2>Know about my experiences 👨🏽‍💻</h2>
@@ -43,5 +48,12 @@
 <p>I'm always open to new opportunities and collaborations. If you have an exciting project or job opportunity, feel free to reach out.</p>
 
 <!-- Support Section -->
-<h2>🤍 Support</h2>
+<h2>Support 🤍</h2>
 <p>If you find my work interesting or helpful, consider giving it a ⭐️ or sharing it with others.</p>
+
+<h2>My stats 〽️</h2>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tlouro-c&theme=transparent&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=Roff,Perl,Objective-C" alt="tlouro-c" />
+</div>
