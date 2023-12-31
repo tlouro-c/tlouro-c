@@ -34,8 +34,8 @@
 <!-- Contact Section -->
 <h2>How to reach me 📥</h2>
 <ul>
-    <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" height="15" width="auto" /> LinkedIn: <a href="https://www.linkedin.com/in/tomás-correia-34881a299/">Tomás Correia</a></li>
-    <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" height="15" width="auto"/> Email: <a href="tomascorreia.lc@gmail.com">tomascorreia.lc@gmail.com</a></li>
+    <li> <a href="https://www.linkedin.com/in/tomás-correia-34881a299/" target="blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" align="center" height="15" width="auto" > </a> LinkedIn: <a href="https://www.linkedin.com/in/tomás-correia-34881a299/">Tomás Correia</a></li>
+    <li> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" align="center" height="15" width="auto"/> Email: <a href="tomascorreia.lc@gmail.com">tomascorreia.lc@gmail.com</a></li>
 </ul>
 
 <!-- Connect Section -->
