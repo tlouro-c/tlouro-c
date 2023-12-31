@@ -29,7 +29,7 @@
 <!-- Projects Section -->
 <h2>Projects 🗂️</h2>
 <ol>
-    <li><a href="Link"><strong>Pipex</strong></a>: This project at 42 was a favorite. I learned what are processes and how to communicate between them using pipes.
+    <li><a href="https://github.com/tlouro-c/pipex"><strong>Pipex</strong></a>: This project at 42 was a favorite. I learned what are processes and how to communicate between them using pipes.
      The challenge was to emulate the functionality of pipes in Bash, redirecting the output of one command to serve as the input for the next.</li>
     <li><a href="https://github.com/tlouro-c/fdf.git"><strong>FdF</strong></a>: In this project, I delved into the world of graphics programming. The task involved creating an Isometric projection of a dynamically provided map as an argument.</li>
   <h3>Currently Working on...</h3>
