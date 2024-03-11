@@ -26,8 +26,7 @@
 <!-- Projects Section -->
 <h2>Projects 🗂️</h2>
 <ol>
-    <li><a href="https://github.com/daanmlab/cub3d"><strong>Cub3d</strong></a>: This project at 42 was a favorite. We implemented a RayCasting engine in C from scratch using the DDA algorithm.
-     The challenge was to emulate the functionality of pipes in Bash, redirecting the output of one command to serve as the input for the next.</li>
+    <li><a href="https://github.com/daanmlab/cub3d"><strong>Cub3d</strong></a>: This project at 42 was a favorite. We implemented a RayCasting engine in C from scratch using the DDA algorithm.</li>
     <li><a href="https://github.com/tlouro-c/fdf.git"><strong>FdF</strong></a>: In this project, I delved into the world of graphics programming. The task involved creating an Isometric projection of a dynamically provided map as an argument.</li>
     <li><a href="https://github.com/tlouro-c/minishell.git"><strong>Minishell</strong></a>: In this project, our challenge is to replicate Bash functionalities by constructing a shell entirely from scratch using the C language.</li>
 </ol>
