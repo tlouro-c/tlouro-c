@@ -26,7 +26,9 @@
 <!-- Projects Section -->
 <h2>Projects 🗂️</h2>
 <ol>
-    <li><a href="https://github.com/daanmlab/cub3d"><strong>Cub3d</strong></a>: This project at 42 was a favorite. We implemented a RayCasting engine in C from scratch using the DDA algorithm.</li>
+    <li><a href="https://github.com/daanmlab/cub3d"><strong>Transcendence</strong></a>: We developed a multiplayer FullStack Website. I built the backend using Django in a microservices architecture, created APIs,implemented live chat with WebSockets, and in the frontend I used Bootstrap and fetch requests to integrate the frontend and backend.</li>
+   <li><a href="https://github.com/daanmlab/cub3d"><strong>Webserver</strong></a>: I developed a Webserver from stratch in C++, using the C++98 Standard Library.</li>
+    <li><a href="https://github.com/daanmlab/cub3d"><strong>Cub3d</strong></a>: We implemented a RayCasting engine in C from scratch using the DDA algorithm.</li>
     <li><a href="https://github.com/tlouro-c/fdf.git"><strong>FdF</strong></a>: In this project, I delved into the world of graphics programming. The task involved creating an Isometric projection of a dynamically provided map as an argument.</li>
     <li><a href="https://github.com/tlouro-c/minishell.git"><strong>Minishell</strong></a>: In this project, our challenge is to replicate Bash functionalities by constructing a shell entirely from scratch using the C language.</li>
 </ol>
