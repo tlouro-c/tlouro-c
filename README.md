@@ -47,5 +47,5 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tlouro-c&theme=transparent&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a> </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=Roff,Perl,Objective-C" alt="tlouro-c" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=Roff,Perl,Objective-C,Makefile,Bash" alt="tlouro-c" />
 </div>
