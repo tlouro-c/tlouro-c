@@ -6,13 +6,6 @@
 
 <br>
 
-### 💻 Latest Projects:
-- [X - Clone](https://github.com/tlouro-c/x-clone)
-- [Stock Exchange Simulator](https://github.com/tlouro-c/stock-exchange-simulator)
-- [Vinted Bot](https://github.com/tlouro-c/vinted_bot)
-
-<br>
-
 ### 🛠 Skills:
 
 <p align="center">
@@ -23,15 +16,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlouro-c&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&hide=makefile,objective-c,roff" />
-</div>
 
 
